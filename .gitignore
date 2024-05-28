@@ -1,3 +1,7 @@
 # created by virtualenv automatically
 *.pyc
 __pycache__
+Lib/site-packages/
+Scripts/
+etc/jupyter/nbconfig/notebook.d/
+share/jupyter/nbextensions/pydeck/
