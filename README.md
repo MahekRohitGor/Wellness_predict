@@ -65,5 +65,5 @@ To get started with the Multiple Disease Prediction application, follow these st
 ![image](https://github.com/MahekRohitGor/Wellness_predict/assets/101034649/46f27356-7bf9-4aa7-979c-ec5e35ad57af)
 
 
-Stay healthy, stay informed, and empower yourself with the knowledge to lead a happier, healthier life.
+Stay healthy, stay informed, and empower yourself with the knowledge to lead a happier, healthier life. <br>
 Created with ❤️
