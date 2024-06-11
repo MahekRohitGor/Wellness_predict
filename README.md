@@ -2,7 +2,7 @@
 
 ![image](https://github.com/MahekRohitGor/Wellness_predict/assets/101034649/dd376e0b-b64a-498d-bf89-4576fded94dc)
 
-
+# ACCESS APPLICATION: https://wellnesspredict.streamlit.app/
 ## Introduction
 
 Welcome to the Wellness Predict project! This project aims to provide a user-friendly application for predicting the likelihood of diabetes, heart disease, or Parkinson's disease based on input data. Additionally, it offers healthy lifestyle tips to improve overall well-being.
